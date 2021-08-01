@@ -1,0 +1,3 @@
+[submodule "assets/Script/LibTools"]
+	path = assets/Script/LibTools
+	url = git@github.com:firekula/LibTools.git
